@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+| Name | Role |
+|------|------|
+| Kondapalli Siva Harshitha | Member |
+| Nandigam Shaik Mahaboob Sharif | Member |
+| Challa Ruchitha | Member |
+| Naligala Samuel Sundar | Member |
+| Sahu Manodhar | Member |
