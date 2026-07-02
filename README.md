@@ -29,4 +29,4 @@ dist-ssr
 | Nandigam Shaik Mahaboob Sharif | Member |
 | Challa Ruchitha | Member |
 | Naligala Samuel Sundar | Member |
-| Sahu Manodhar | Member |
+| Sahu Manodhar | Team Lead |
